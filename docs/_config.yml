@@ -31,7 +31,7 @@ repository: "https://github.com/seunghye-study/seunghye-study.github.io.git"
 github_username:  seunghye-study
 
 # Build settings
-theme: minima
+theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
