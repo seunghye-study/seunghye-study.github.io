@@ -1,1 +1,1 @@
-# seunghye-study.github.io
+# seunghye-study
